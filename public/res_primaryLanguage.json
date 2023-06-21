@@ -1,0 +1,142 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm V K Akshat, a 20 year old Student of Computer Science Engineering. Currently, I am a 3rd year student pirsuing my graduation from Vellore Institute of Technology, Bhopal and I love coding in Java, Python, JavaScript, MySql and I am also enthusiastic about technology and new inventions in technological fields. What you are seeing now is my portfolio made using HTML, CSS, JavaScript and ReactJs.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "Fresh Bagel",
+        "startDate": "Sep 21 – Dec 21",
+        "description": " Fresh bagel is an online ordering service that simplifies the ordering process for both the customer and the restaurant. The system presents an interactive and up-to-date menu with all available options in an easy-to-use manner. A customer can choose one or more items to place an order, which will be added to the cart. Customers can also book tables and party halls at the respective restaurants. After an order is placed, users can play a game for a certain time limit and earn credits, which they can later redeem to get coupons.",
+        "images": [
+          "images/portfolio/animal-shelter/p3.jpg",
+          "images/portfolio/animal-shelter/p4.jpg",
+          "images/portfolio/animal-shelter/p5.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          }
+        ]
+      },
+      {
+        "title": "S.I.V.A",
+        "startDate": "Jan 22 – April 22",
+        "description": "S.I.V.A is a personal virtual assistant which draws its inspiration from virtual assistants like Cortana for Windows and Siri for iOS. As a personal assistant, S.I.V.A. not only assists the end-user with daily basic activities such as general human conversation, searching for queries in Google, Bing, or Yahoo, retrieving images, live weather conditions, word meanings, searching for medicine details, health recommendations based on symptoms, and reminding the user of upcoming events and tasks, but also helps in the automation of various activities by automating the sites and mobile applications like WhatsApp, YouTube, Google Chrome, Spotify, etc. and providing features like online meeting automation, notepad automation, COVID case tracking, home automation, whiteboard automation, MS Word automation, and event invite form creation automation.",
+        "images": [
+          "images/portfolio/photography/p4.png",
+          "images/portfolio/photography/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Narrrator",
+        "startDate": "Nov 22 – Jan 23",
+        "description": "A social media website for writers and poets to upload their writings and to share with other fellow writers of their community.",
+        "images": [
+          "images/portfolio/adventure/p2.png",
+          "images/portfolio/adventure/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Vellore Institute of Technology, Bhopal",
+        "title": "B.Tech (CSE)",
+        "years": "Sep 2020 - present",
+        "mainTech": [
+          "Graduation"
+        ],
+        "technologies": [
+          "CGPA - 7.73/10",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "Holy Cross Senior Secondary School, Raipur",
+        "title": "Class XII",
+        "years": "July 2020",
+        "mainTech": [
+          "CBSE"
+        ],
+        "technologies": [
+          "Percentage - 80.2%",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "Kendriya Vidyalaya No.1, Raipur",
+        "title": "Class X",
+        "years": "May 2018",
+        "mainTech": [
+          "CBSE"
+        ],
+        "technologies": [
+          "Percentage - 88.6%",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
